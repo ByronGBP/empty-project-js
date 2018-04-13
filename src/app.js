@@ -1,5 +1,5 @@
 'use strict';
 import { Empty } from './models/empty';
 
-const empty = new Empty('Byron');
+const empty = new Empty('Empty');
 empty.hi();
