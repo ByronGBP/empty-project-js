@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack --watch --config webpack.config.js",
+    "dev": "webpack --watch --config webpack.config.js & open index.html",
     "test": "jasmine"
   },
   "author": "ByronGBP",
